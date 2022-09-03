@@ -1,2 +1,2 @@
-# EDA-1---Lagos-Houses
-Analysis on Lagos Housing
+# EDA-1---Lagos-Houses-Prices
+Analysis on Lagos Housing Prices
